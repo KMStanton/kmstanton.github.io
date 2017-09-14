@@ -12,6 +12,10 @@ img {
   margin-right: auto;
   border-radius: 50%;
 }
+.profile-img{
+  width:200
+  height:auto;
+}
 header{
   background-color: salmon;
 }
